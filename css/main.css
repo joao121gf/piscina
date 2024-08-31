@@ -532,6 +532,10 @@ header {
   padding: 0;
 }
 
+.backk {
+  background-position: bottom center;
+}
+
 .facts .devider:before,
 .facts .devider:after {
   color: #737c85;
