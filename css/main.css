@@ -8,6 +8,7 @@ body {
   line-height: 21px;
   font-size: 13px;
   color: #6a737b;
+  overflow-x: hidden;
 }
 
 ol,
@@ -102,6 +103,8 @@ body > section,
   line-height: 24px;
   font-size: 18px;
   color: #5b646e;
+  width: 90%;
+  margin: 0 auto;
 }
 
 .devider {
