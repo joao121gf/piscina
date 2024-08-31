@@ -1,8 +1,8 @@
 # Cascatas Arte
 
-An exercise to reinforce my programming logic
+Site desenvolvido para um cliente da Web Stones
 
-![Imagem do projeto](./img\screencapture-joao121gf-github-io-piscina-2024-08-31-16_49_21.png)
+![Imagem do projeto](./img/screencapture-joao121gf-github-io-piscina-2024-08-31-16_49_21.png)
 
 [Você pode conferir como ficou o projeto aqui](https://joao121gf.github.io/piscina/)
 
