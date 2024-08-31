@@ -17,7 +17,9 @@ ul {
   padding: 0;
   list-style: none;
 }
-
+.roww {
+  display: grid;
+}
 figure,
 p {
   margin: 0;
@@ -377,8 +379,9 @@ header {
 
 .work-item {
   float: left;
-  width: 40%;
+  width: 25%;
   position: relative;
+  max-width: 474px;
 }
 
 .work-item > img {
@@ -473,7 +476,11 @@ header {
   line-height: 24px;
 }
 .team-member {
-  /* display: contents; */
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  width: 100%;
 }
 .team-member h4 {
   color: #062033;
