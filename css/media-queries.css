@@ -127,6 +127,12 @@
     width: 250px;
     margin: 0 auto;
   }
+  .casc {
+    width: 120px;
+    padding-left: 1px;
+    margin-left: 19px;
+    padding-bottom: 0px;
+  }
   .sec-sub-title p {
     font-size: 14px;
     padding: 20px;

@@ -78,7 +78,7 @@ h6 {
 }
 
 span.color {
-  color: #0feb9e;
+  color: #09a3eb;
 }
 
 body > section,
@@ -90,7 +90,7 @@ body > section,
 }
 
 .sec-title h2 {
-  color: #0eb493;
+  color: #09a3eb;
   font-size: 28px;
   font-weight: 800;
   text-transform: uppercase;
@@ -190,19 +190,27 @@ figure img {
 .navbar-nav li a:focus,
 .navbar-nav li a:hover {
   background-color: transparent;
-  border-top: 1px solid #0feb9e;
+  border-top: 1px solid #09a3eb;
   color: #fff;
 }
 
 /*=========================================
 	Slider
 ==========================================*/
-
+#logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 20px;
+}
 #slider {
   padding: 0;
 }
 .casc {
-  width: 240px;
+  width: 120px;
+  padding-left: 1px;
+  margin-left: 19px;
+  padding-bottom: 15px;
 }
 #slider .carousel-inner .item {
   background-size: cover;
@@ -237,10 +245,13 @@ header {
 
 .carousel-caption p:before,
 .carousel-caption p:after {
-  color: #0feb9e;
+  color: #09a3eb;
   content: "___";
   position: relative;
   top: -8px;
+}
+.navbar {
+  background-color: #09a3eb !important;
 }
 
 .carousel-caption p:before {
@@ -323,9 +334,9 @@ header {
 }
 
 .service-icon {
-  border: 1px solid #0eb493;
+  border: 1px solid #09a3eb;
   border-radius: 50%;
-  color: #0eb493;
+  color: #09a3eb;
   float: left;
   padding: 10px 13px;
 }
@@ -367,7 +378,7 @@ header {
 
 .work-filter ul li a:hover,
 .work-filter ul li a.active {
-  background-color: #0eb493;
+  background-color: #09a3eb;
   border-radius: 6px;
   color: #fff;
   padding: 5px 17px;
@@ -450,7 +461,9 @@ header {
   font-size: 14px;
   line-height: 24px;
 }
-
+.logofo {
+  width: 140px;
+}
 /*=========================================
 	Our Team Member
 ==========================================*/
@@ -503,7 +516,7 @@ header {
 }
 
 .team-member:hover h4 {
-  color: #0eb493;
+  color: #09a3eb;
 }
 
 .team-member .social-links {
@@ -673,7 +686,7 @@ label.error {
 ==========================================*/
 
 .footer {
-  background-color: #1ea78d;
+  background-color: #09a3eb;
   border-top: 5px solid #062033;
   color: #fff;
 }
