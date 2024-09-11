@@ -536,7 +536,7 @@ header {
 ==========================================*/
 
 #facts {
-  background-image: url("../img/parallax/city.jpg");
+  background-image: url("../img/parallax/city.webp");
   background-color: rgba(6, 32, 51, 0.8);
   background-attachment: fixed !important;
   background-position: center center;
